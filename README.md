@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 - Live Site URL: [https://samuelwoniowei.github.io/advice-generator](https://samuelwoniowei.github.io/advice-generator)
