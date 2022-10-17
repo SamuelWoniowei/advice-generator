@@ -29,7 +29,7 @@ Users should be able to:
 ![](./images/screenshot.jpg)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://samuelwoniowei.github.io/advice-generator](https://samuelwoniowei.github.io/advice-generator)
 
 ## My process
 
